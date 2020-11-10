@@ -10,10 +10,7 @@
 Hi there, I'm **Junior Wembopa**, a **Dev ReactJS** 🚀 from France. Currently, I'm a Available 🙍🏽‍♂️ [@JuniorWMB](https://github.com/JuniorWMB), 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
- <br />
-<br />
-<br />
-<br />
+
 ---  
 
 **Talking about Personal Stuffs:**
@@ -27,6 +24,10 @@ Hi there, I'm **Junior Wembopa**, a **Dev ReactJS** 🚀 from France. Currently,
 
 ---
 
+ <br />
+<br />
+<br />
+<br />
 **Languages and Tools:**  
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
