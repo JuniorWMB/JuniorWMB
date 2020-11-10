@@ -14,6 +14,7 @@ Hi there, I'm **Junior Wembopa**, a **Dev ReactJS** 🚀 from France. Currently,
  
 
 **Talking about Personal Stuffs:**
+<br/>
 
 - 👨🏽‍💻 I’m French Dev ReactJs;
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
@@ -22,8 +23,6 @@ Hi there, I'm **Junior Wembopa**, a **Dev ReactJS** 🚀 from France. Currently,
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via junior.wembopa@gmail.com to reach me.
 
----
-
  <br />
 <br />
 <br />
@@ -31,6 +30,7 @@ Hi there, I'm **Junior Wembopa**, a **Dev ReactJS** 🚀 from France. Currently,
 
 
 **Languages and Tools:**  
+<br/>
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
