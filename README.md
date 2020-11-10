@@ -1,4 +1,5 @@
-### Hey 👋, I'm Junior
+### Hey  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Junior
+
 
 <a href="https://www.linkedin.com/in/junior-wembopa-42b2311a5/">
   <img align="left" alt="Junior's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
