@@ -17,10 +17,10 @@ Hi there, I'm **Junior Wembopa**, a **Dev ReactJS** 🚀 from France. Currently,
 **Talking about Personal Stuffs:**
 <br/>
 
-- 👨🏽‍💻 I’m French Dev ReactJs;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests is to learn day after day more and more;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m French Dev ReactJs.
+- 🌱 I’m currently learning Deep Reinforcement Learning.
+- 🤔 My interests is to learn day after day more and more.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via junior.wembopa@gmail.com to reach me.
 
  <br />
